@@ -7,18 +7,18 @@
 `Решение...`
 
 
-```
+
 
 ![1](https://github.com/DubininDenis/elk/blob/main/1.png)
 
 ---
 
-### Задание 2
+### Задание 1
 
 `Решение...`
 
 
-```
+
 
 ![2](https://github.com/DubininDenis/elk/blob/main/2.png)
 
@@ -29,7 +29,7 @@
 `Решение...`
 
 
-```
+
 
 ![3](https://github.com/DubininDenis/elk/blob/main/3.png)
 
@@ -40,7 +40,7 @@
 `Решение...`
 
 
-```
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![4](https://github.com/DubininDenis/elk/blob/main/4.png)
